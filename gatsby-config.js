@@ -4,7 +4,8 @@
 module.exports = {
   siteMetadata: {
     title: `My Gatsby Site`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.yourdomain.tld`,
+    author: `yoyo`,
   },
-  plugins: ["gatsby-plugin-styled-components"]
+  plugins: ["gatsby-plugin-styled-components"],
 };
